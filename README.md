@@ -1,6 +1,6 @@
 # Basic Fuel Cell Performance Analysis Application
-oswaldo@joceballos.com
-www.joceballos.com
+oswaldo@joceballos.com  
+www.joceballos.com  
 Phd Renewable Energy
 ## Overview
 This is a Python-based graphical application for analyzing and visualizing fuel cell performance characteristics. The application allows users to explore voltage polarization curves by varying key parameters such as pressure, temperature, electrode thickness, and membrane thickness.
