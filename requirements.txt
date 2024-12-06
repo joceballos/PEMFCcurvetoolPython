@@ -1,0 +1,12 @@
+
+---
+
+### `requirements.txt`
+
+```txt
+# Python library dependencies for the Fuel Cell Analysis Application
+numpy==1.24.0         # For advanced mathematical computations and array operations
+scipy==1.10.0         # For solving non-linear equations and optimization
+matplotlib==3.7.0     # For creating interactive plots and visualizations
+tkinter (builtin)     # GUI library included with Python standard library
+random (builtin)      # Standard library for generating random numbers
